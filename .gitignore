@@ -1,0 +1,24 @@
+**/__pycache__/
+**/.vscode/
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.jfif
+*.webp
+*.svg
+
+# Tabular files
+*.csv
+
+# Audio files
+*.mp3
+*.wav
+
+# Cache files
+*.pyc
