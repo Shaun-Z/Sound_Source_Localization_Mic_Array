@@ -31,8 +31,8 @@ while True:
         dir2_rad = math.radians(dir2)
 
         try:
-            xx = math.sin(dir2)*math.cos(dir1)/math.sin(dir2-dir1)*L
-            yy = math.sin(dir2)*math.sin(dir1)/math.sin(dir2-dir1)*L
+            xx = math.sin(dir2_rad)*math.cos(dir1_rad)/math.sin(dir2_rad-dir1_rad)*L
+            yy = math.sin(dir2_rad)*math.sin(dir1_rad)/math.sin(dir2_rad-dir1_rad)*L
         except:
             xx = 0
             yy = 0
