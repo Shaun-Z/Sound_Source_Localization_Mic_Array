@@ -1,2 +1,10 @@
-pyusb==1.0.2
-click==7.0
+# Core dependencies for sound source localization
+pyusb>=1.0.2
+click>=7.0
+numpy>=1.19.0
+pyaudio>=0.2.11
+
+# Optional dependencies for test and advanced features
+# Uncomment if you need the test functionality
+# voice-engine @ git+https://github.com/voice-engine/voice-engine.git
+# pocketsphinx>=0.1.15
