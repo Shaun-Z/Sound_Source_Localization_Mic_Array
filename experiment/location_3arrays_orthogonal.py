@@ -35,9 +35,9 @@ class ThreeArrayLocalization3D:
         self.L = array_distance
         
         # Array positions (center of each array)
-        self.array1_center = np.array([0, 0, 0])      # XY plane center
-        self.array2_center = np.array([0, 0, 0])      # XZ plane center  
-        self.array3_center = np.array([0, 0, 0])      # YZ plane center
+        self.array1_center = np.array([0.03, 0.08, 0])      # XY plane center
+        self.array2_center = np.array([0.05, 0, 0.06])      # XZ plane center  
+        self.array3_center = np.array([0, 0.03, 0.06])      # YZ plane center
         
     def triangulate_from_three_arrays(self, doa1_xy, doa2_xz, doa3_yz):
         """

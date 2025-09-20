@@ -41,13 +41,13 @@ Array 3 (YZ Plane - Vertical Side):
    - Microphones point upward
    - 0° should point toward your "forward" direction (+X)
 
-2. **Array 2 (Vertical Front)**:
-   - Mount vertically facing forward
+2. **Array 2 (Vertical Side)**:
+   - Mount vertically facing sideways
    - Can be on a stand or wall mount
    - 0° should point forward (+X), 90° points up (+Z)
 
-3. **Array 3 (Vertical Side)**:
-   - Mount vertically facing sideways
+3. **Array 3 (Vertical Front)**:
+   - Mount vertically facing forward
    - Perpendicular to Array 2
    - 0° should point right (+Y), 90° points up (+Z)
 
