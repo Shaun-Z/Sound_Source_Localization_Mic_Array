@@ -12,14 +12,14 @@ Array 1 (XY Plane - Horizontal):
 - Provides: Azimuth angle in horizontal plane (0° = +X direction)
 - Measures: Left/Right and Front/Back direction of sound
 
-Array 2 (XZ Plane - Vertical Front):  
-- Position: Vertical plane, facing forward
-- Provides: Elevation angle in front-facing plane (0° = +X direction)
+Array 2 (XZ Plane - Vertical Side):  
+- Position: Vertical plane, facing sideways
+- Provides: Elevation angle in side-facing plane (0° = +X direction)
 - Measures: Front/Back and Up/Down direction of sound
 
-Array 3 (YZ Plane - Vertical Side):
-- Position: Vertical plane, facing sideways  
-- Provides: Elevation angle in side-facing plane (0° = +Y direction)
+Array 3 (YZ Plane - Vertical Front):
+- Position: Vertical plane, facing front  
+- Provides: Elevation angle in front-facing plane (0° = +Y direction)
 - Measures: Left/Right and Up/Down direction of sound
 ```
 
